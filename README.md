@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debashis Das</h1>
 <h3 align="center">A vibe code developer from India</h3>
 
-- 📫 How to reach me **info.mrdebashis@gmail.com**
+- 📫 How to reach me **info@magneto.zone**
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer">
