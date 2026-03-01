@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Debashis Das</h1>
-<h3 align="center">A vibe-driven developer from India</h3>
+<h1 align="center">Hi 👋, I am Dev</h1>
+<h4 align="center">aka Magneto</h4>
+<p align="center"><i>Founder of <a href="https://lastprojects.com">Last Projects</a> — An open-source initiative for native Windows tools</i></p>
 
-- 📫 How to reach me: **info@magneto.zone**
+<p align="center">
+  <a href="https://github.com/MrDevFX">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Vibe+Coder;AI-Assisted+App+Builder;Creative+Technologist;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -21,10 +28,67 @@
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/substance3d-painter.html" target="_blank">
+    <img src="assets/substance3d.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.qt.io/product/development-tools" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://jrsoftware.org/isinfo.php" target="_blank">
+    <img src="assets/inno-setup.svg" width="40" height="40" alt="Inno Setup"/>
+  </a>
 </p>
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDevFX&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrDevFX&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrDevFX&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <b>⬇️ Last Download Manager</b> &nbsp;•&nbsp; C++17 / wxWidgets &nbsp;•&nbsp; Stable Release<br/>
+  <b>🎮 Last Rich Presence</b> &nbsp;•&nbsp; C++20 / WinUI 3 &nbsp;•&nbsp; Active Build<br/><br/>
+  <a href="https://lastprojects.com">
+    <img src="https://img.shields.io/badge/🔗_Browse_All_Projects-lastprojects.com-8A2BE2?style=for-the-badge" alt="Browse Projects" />
+  </a>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:info@magneto.zone">
+    <img src="https://img.shields.io/badge/Email-info%40magneto.zone-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://magneto.zone">
+    <img src="https://img.shields.io/badge/Website-magneto.zone-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://lastprojects.com">
+    <img src="https://img.shields.io/badge/Website-lastprojects.com-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Last Projects" />
+  </a>
+</p>
+
+---
 
 ![Snake animation](https://raw.githubusercontent.com/MrDevFX/MrDevFX/output/snake.svg)
