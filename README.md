@@ -12,46 +12,65 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<h4 align="left">Dev Stack</h4>
 <p align="left">
-  <a href="https://www.autodesk.com/products/maya/overview" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg" width="40" height="40"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" width="40" height="40" alt="Discord"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/substance3d-painter.html" target="_blank">
-    <img src="assets/substance3d.svg" width="40" height="40"/>
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.qt.io/product/development-tools" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40" height="40"/>
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40" height="40"/>
   </a>
   <a href="https://jrsoftware.org/isinfo.php" target="_blank">
-    <img src="assets/inno-setup.svg" width="40" height="40" alt="Inno Setup"/>
+    <img align="left" hspace="4" src="assets/inno-setup.svg" width="40" height="40" alt="Inno Setup"/>
   </a>
+  <br clear="left"/>
+</p>
+
+<h4 align="left">Creative Stack</h4>
+<p align="left">
+  <a href="https://www.autodesk.com/products/maya/overview" target="_blank">
+    <img align="left" hspace="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank">
+    <img align="left" hspace="4" src="assets/adobe-photoshop.svg" width="40" height="40" alt="Adobe Photoshop"/>
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img align="left" hspace="4" src="assets/adobe-premiere-pro.svg" width="40" height="40" alt="Adobe Premiere Pro"/>
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+    <img align="left" hspace="4" src="assets/adobe-after-effects.svg" width="40" height="40" alt="Adobe After Effects"/>
+  </a>
+  <a href="https://www.adobe.com/products/substance3d-painter.html" target="_blank">
+    <img align="left" hspace="4" src="assets/substance3d.svg" width="40" height="40"/>
+  </a>
+  <br clear="left"/>
 </p>
 
 ## 📊 GitHub Stats
