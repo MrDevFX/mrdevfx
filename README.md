@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I am Dev</h1>
 <h4 align="center">aka Magneto</h4>
-<p align="center"><i>Founder of <a href="https://lastprojects.com">Last Projects</a> — An open-source initiative for native Windows tools</i></p>
+<p align="center"><i>Founder of <a href="https://lastprojects.com">Last Projects</a> — Native tools and connected platforms</i></p>
 
 <p align="center">
-  <a href="https://github.com/MrDevFX">
+  <a href="https://github.com/xMagnetoFX">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Vibe+Coder;AI-Assisted+App+Builder;Creative+Technologist;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
@@ -76,8 +76,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrDevFX&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrDevFX&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xMagnetoFX&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xMagnetoFX&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" width="49%" alt="Top Languages" />
 </p>
 
 ---
@@ -110,4 +110,4 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/MrDevFX/MrDevFX/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/xMagnetoFX/xMagnetoFX/output/snake.svg)
